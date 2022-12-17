@@ -1,5 +1,6 @@
-# vim study
+about vim
+=========
 
-## [mapping](./mapping.md)
+[mapping](./mapping.md)
 
-## [vimscript](./vimscript.md)
+[vimscript](./vimscript.md)

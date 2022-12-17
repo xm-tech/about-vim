@@ -1,11 +1,21 @@
-# function
+vim script developping
+======================
 
-定义：
-function a(p)
-  // xxx
-endfunction
+function
+--------
 
-覆盖定义
-function! a(p)
-  // xxx
+definition：
+
+```vim
+function f(p)
+  " function body
 endfunction
+```
+
+force definition:
+
+```vim
+function! f(p)
+  " function body 
+endfunction
+```
