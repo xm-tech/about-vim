@@ -1,5 +1,5 @@
-参考： [Vim按键映射高级技巧](https://zhuanlan.zhihu.com/p/38150203)
--------------------------------------------------------------------
+about mapping
+=============
 
 ```vim
 
@@ -16,3 +16,5 @@ inoremap <silent><expr> <c-space> coc#refresh()
 " <expr> 表示{rhs}是一个Vim表达式, 或者1个函数调用
 
 ```
+
+>参考： [Vim按键映射高级技巧](https://zhuanlan.zhihu.com/p/38150203)
