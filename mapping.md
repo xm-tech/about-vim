@@ -1,6 +1,9 @@
 about mapping
 =============
 
+doc
+---
+
 ```vim
 
 [nore]map [<args>] {lhs} {rhs}
@@ -16,5 +19,12 @@ inoremap <silent><expr> <c-space> coc#refresh()
 " <expr> 表示{rhs}是一个Vim表达式, 或者1个函数调用
 
 ```
+
+frequently used built-in mappings
+---------------------------------
+
+|cmd|desc|
+|----|----|
+| gf | go to the file under the cusor |
 
 >参考： [Vim按键映射高级技巧](https://zhuanlan.zhihu.com/p/38150203)
