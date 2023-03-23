@@ -1,5 +1,5 @@
-Best practicies
-===============
+cheatsheets
+===========
 
 <!-- `:h tips` - 查看vim内置的常用技巧文档 -->
 
